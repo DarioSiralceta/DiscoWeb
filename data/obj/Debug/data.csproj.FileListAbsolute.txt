@@ -1,0 +1,45 @@
+C:\Users\LENOVO\Desktop\TP-DISCOS\data\bin\Debug\data.dll
+C:\Users\LENOVO\Desktop\TP-DISCOS\data\bin\Debug\data.pdb
+C:\Users\LENOVO\Desktop\TP-DISCOS\data\bin\Debug\dominio.dll
+C:\Users\LENOVO\Desktop\TP-DISCOS\data\bin\Debug\dominio.pdb
+C:\Users\LENOVO\Desktop\TP-DISCOS\data\obj\Debug\data.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\TP-DISCOS\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\TP-DISCOS\data\obj\Debug\data.csproj.Up2Date
+C:\Users\LENOVO\Desktop\TP-DISCOS\data\obj\Debug\data.dll
+C:\Users\LENOVO\Desktop\TP-DISCOS\data\obj\Debug\data.pdb
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\data\bin\Debug\data.dll
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\data\bin\Debug\data.pdb
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\data\bin\Debug\dominio.dll
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\data\bin\Debug\dominio.pdb
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\data\obj\Debug\data.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\data\obj\Debug\data.csproj.Up2Date
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\data\obj\Debug\data.dll
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\data\obj\Debug\data.pdb
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\PracticaCurso3\data\obj\Debug\data.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\PracticaCurso3\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\PracticaCurso3\data\obj\Debug\data.dll
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\PracticaCurso3\data\obj\Debug\data.pdb
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\PracticaCurso3\data\bin\Debug\data.dll
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\PracticaCurso3\data\bin\Debug\data.pdb
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\PracticaCurso3\data\bin\Debug\dominio.dll
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\PracticaCurso3\data\bin\Debug\dominio.pdb
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\PracticaCurso3\data\obj\Debug\data.csproj.Up2Date
+C:\Users\LENOVO\Desktop\Nueva carpeta\PracticaCurso3\data\bin\Debug\data.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\PracticaCurso3\data\bin\Debug\data.pdb
+C:\Users\LENOVO\Desktop\Nueva carpeta\PracticaCurso3\data\bin\Debug\dominio.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\PracticaCurso3\data\bin\Debug\dominio.pdb
+C:\Users\LENOVO\Desktop\Nueva carpeta\PracticaCurso3\data\obj\Debug\data.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Nueva carpeta\PracticaCurso3\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Nueva carpeta\PracticaCurso3\data\obj\Debug\data.csproj.Up2Date
+C:\Users\LENOVO\Desktop\Nueva carpeta\PracticaCurso3\data\obj\Debug\data.dll
+C:\Users\LENOVO\Desktop\Nueva carpeta\PracticaCurso3\data\obj\Debug\data.pdb
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\data\bin\Debug\data.dll
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\data\bin\Debug\data.pdb
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\data\bin\Debug\dominio.dll
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\data\bin\Debug\dominio.pdb
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\data\obj\Debug\data.csproj.AssemblyReference.cache
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\data\obj\Debug\data.csproj.Up2Date
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\data\obj\Debug\data.dll
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\data\obj\Debug\data.pdb

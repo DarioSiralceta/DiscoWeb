@@ -1,0 +1,18 @@
+C:\Users\LENOVO\Desktop\TP-DISCOS\dominio\bin\Debug\dominio.dll
+C:\Users\LENOVO\Desktop\TP-DISCOS\dominio\bin\Debug\dominio.pdb
+C:\Users\LENOVO\Desktop\TP-DISCOS\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\TP-DISCOS\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\TP-DISCOS\dominio\obj\Debug\dominio.dll
+C:\Users\LENOVO\Desktop\TP-DISCOS\dominio\obj\Debug\dominio.pdb
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\dominio\bin\Debug\dominio.dll
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\dominio\bin\Debug\dominio.pdb
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\dominio\obj\Debug\dominio.dll
+C:\Users\LENOVO\Desktop\Discos Web\PracticaWeb\dominio\obj\Debug\dominio.pdb
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\dominio\bin\Debug\dominio.dll
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\dominio\bin\Debug\dominio.pdb
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\dominio\obj\Debug\dominio.dll
+C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\dominio\obj\Debug\dominio.pdb
