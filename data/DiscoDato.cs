@@ -12,7 +12,7 @@ namespace data
 {
     public class DiscoDato
     {
-        public List<Disco> listar()
+        public List<Disco> listar(string id = "")
         {
             List<Disco> lista = new List<Disco>();
             SqlConnection conexion = new SqlConnection();
@@ -23,7 +23,9 @@ namespace data
             {
                 conexion.ConnectionString = "server=.\\SQLEXPRESS; database=DISCOS_DB; integrated security=true";
                 comando.CommandType = System.Data.CommandType.Text;
-                comando.CommandText = "select Titulo, FechaLanzamiento, CantidadCanciones, UrlImagenTapa, E.Descripcion Genero, T.Descripcion Formato, D.IdEstilo, D.IdTipoEdicion, D.id From DISCOS D, ESTILOS E, TIPOSEDICION T where E.id = D.idEstilo and T.id = D.IdTipoEdicion";
+                comando.CommandText = "select Titulo, FechaLanzamiento, CantidadCanciones, UrlImagenTapa, E.Descripcion Genero, T.Descripcion Formato, D.IdEstilo, D.IdTipoEdicion, D.id From DISCOS D, ESTILOS E, TIPOSEDICION T where E.id = D.idEstilo and T.id = D.IdTipoEdicion ";
+                if (id != "")
+                    comando.CommandText += " and D.id = " + id;
                 comando.Connection = conexion;
 
                 conexion.Open();
@@ -211,6 +213,43 @@ namespace data
             }
         }
 
+        public void modificarConSp(Disco disco)
+        {
+            AccesoDatos datos = new AccesoDatos();
+            try
+            {
+                datos.setearProcedimiento("storedModificarDisco");
+                datos.setearParametro("@titulo", disco.Titulo);
+                datos.setearParametro("@fechalanzamiento", disco.FechaLanzamiento);
+                datos.setearParametro("@cantidadcanciones", disco.CantidadCanciones);
+                datos.setearParametro("@urlimagentapa", disco.UrlImagenTapa);
+                datos.setearParametro("@idEstilo", disco.Genero.id);
+                datos.setearParametro("@idTipoEdicion", disco.Formato.id);
+                datos.setearParametro("@Id", disco.Id);
+
+                datos.ejecutarAccion();
+
+
+
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+            finally
+            {
+
+                datos.cerrarConexion();
+            }
+
+
+
+
+        }
+
+
+
         public void eliminar(int id)
         {
 
@@ -227,10 +266,10 @@ namespace data
                 throw ex;
             }
 
-
-
-
         }
+
+
+
 
         public List<Disco> filtrar(string campo, string criterio, string filtro)
         {

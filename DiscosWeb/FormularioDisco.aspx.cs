@@ -14,26 +14,49 @@ namespace DiscosWeb
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            txtId.Enabled = false;
-            if (!IsPostBack)
-            {
+
+
+                txtId.Enabled = false;
                 try
                 {
-                    EstiloDato estilo = new EstiloDato();
-                    List<Estilo> lista = estilo.listar();
+                    if (!IsPostBack)
+                    {
+                     EstiloDato estilo = new EstiloDato();
+                     List<Estilo> lista = estilo.listar();
 
-                    ddlEstilo.DataSource = lista;
-                    ddlEstilo.DataValueField = "id";
-                    ddlEstilo.DataTextField = "Descripcion";
-                    ddlEstilo.DataBind();
+                     ddlEstilo.DataSource = lista;
+                     ddlEstilo.DataValueField = "id";
+                     ddlEstilo.DataTextField = "Descripcion";
+                     ddlEstilo.DataBind();
 
-                    TipoEdicionDato tipo = new TipoEdicionDato();
-                    List<TipoEdicion> serie = tipo.listar();
+                     TipoEdicionDato tipo = new TipoEdicionDato();
+                     List<TipoEdicion> serie = tipo.listar();
 
-                    ddlTipo.DataSource = serie;
-                    ddlTipo.DataValueField = "id";
-                    ddlTipo.DataTextField = "Descripcion";
-                    ddlTipo.DataBind();
+                     ddlTipo.DataSource = serie;
+                     ddlTipo.DataValueField = "id";
+                     ddlTipo.DataTextField = "Descripcion";
+                     ddlTipo.DataBind();
+
+
+
+                    }
+                    string id = Request.QueryString["id"] != null ? Request.QueryString["id"].ToString() : "";
+                    if (id != "" && !IsPostBack)
+                    {
+                        DiscoDato dato = new DiscoDato();
+                        Disco seleccionado = (dato.listar(id))[0];
+
+                        txtId.Text = id;
+                        txtTitulo.Text = seleccionado.Titulo;
+                        txtFecha.Text = seleccionado.FechaLanzamiento.ToString();
+                        txtCantidadCanciones.Text = seleccionado.CantidadCanciones.ToString();
+                        txtImagenUrl.Text = seleccionado.UrlImagenTapa;
+
+                        ddlEstilo.SelectedValue = seleccionado.Genero.id.ToString();
+                        ddlTipo.SelectedValue = seleccionado.Genero.id.ToString();
+                        txtImagenUrl_TextChanged(sender, e);
+                        
+                    }
                 }
                 catch (Exception ex)
                 {
@@ -41,15 +64,6 @@ namespace DiscosWeb
                     Session.Add("error", ex);
                     throw;
                 }
-
-            }
-
-
-
-
-
-
-
 
         }
 
@@ -73,8 +87,16 @@ namespace DiscosWeb
                 nuevo.Formato.id = int.Parse(ddlTipo.SelectedValue);
 
 
+                if (Request.QueryString["id"] != null)
+                {
+                    nuevo.Id = int.Parse(txtId.Text);
+                    discoDato.modificarConSp(nuevo);
+                }   
+                else
+                    discoDato.agregarConSP(nuevo);
 
-                discoDato.agregarConSP(nuevo);
+
+
                 Response.Redirect("DiscosLista.aspx", false);
             }
             catch (Exception ex)
