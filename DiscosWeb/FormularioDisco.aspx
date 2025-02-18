@@ -54,6 +54,25 @@
          <asp:Button Text="Aceptar" ID="btnAceptar" CssClass="btn btn-primary" OnClick="btnAceptar_Click" runat="server" />
          <a href="DiscosLista.aspx">Cancelar</a>
     </div>
+    <div class="row">
+        <asp:UpdatePanel ID="UpdatePanel2" runat="server">
+            <ContentTemplate>
+                <div class="mb-3">
+                    <asp:Button Text="Eliminar" ID="btnEliminar" Onclick="btnEliminar_Click" CssClass="btn btn-danger" runat="server" />
+                </div>
+
+                <%if (ConfirmaEliminacion){ %>
+                <div class="mb-3">
+                    <asp:CheckBox Text="Confirmar Eliminacion" Id="chkconfirmaEliminacion" runat="server" />
+                    <asp:Button Text="Eliminar" ID="btnConfirmaEliminar" Onclick="btnConfirmaEliminar_Click" CssClass="btn btn-outline-danger" runat="server" />
+                 </div>
+                 <%} %>
+             </ContentTemplate>
+        </asp:UpdatePanel>
+
+
+
+    </div>
 
 
 
