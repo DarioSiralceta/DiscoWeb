@@ -38,6 +38,7 @@ namespace data
                     aux.Titulo = (string)lector["Titulo"];
                     aux.FechaLanzamiento = (DateTime)lector["FechaLanzamiento"];
                     aux.CantidadCanciones = (int)lector["CantidadCanciones"];
+                    
 
                     if (!(lector["UrlImagenTapa"] is DBNull))
                         aux.UrlImagenTapa = (string)lector["UrlImagenTapa"];
@@ -48,6 +49,7 @@ namespace data
                     aux.Formato = new TipoEdicion();
                     aux.Formato.id = (int)lector["IdTipoEdicion"];
                     aux.Formato.Descripcion = (string)lector["Formato"];
+                    
 
                     lista.Add(aux);
 
@@ -421,6 +423,23 @@ namespace data
             }
         }
 
+        public void eliminarLogico(int id, bool activo = false)
+        {
+            try
+            {
+                AccesoDatos datos = new AccesoDatos();
+                datos.setearProcedimiento("ActualizarActivo");
+                datos.setearParametro("@id", id);
+                datos.setearParametro("@activo", activo ? 1 : 0); // convertir el valor booleano a entero
+                datos.ejecutarAccion();
+            }
+            catch (Exception ex)
+            {
+                // Maneja la excepción de manera adecuada
+                Console.WriteLine("Error: " + ex.Message);
+                throw;
+            }
+        }
 
 
 

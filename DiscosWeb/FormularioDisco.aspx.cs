@@ -142,5 +142,26 @@ namespace DiscosWeb
 
         }
 
+        protected void btnDesactivar_click(object sender, EventArgs e)
+        {
+            try
+            {
+
+                DiscoDato dato = new DiscoDato();
+                dato.eliminarLogico(int.Parse(txtId.Text));
+                Response.Redirect("DiscosLista.aspx");
+
+            }
+            catch (Exception ex)
+            {
+
+                Session.Add("Error", ex);
+            }
+
+
+
+
+        }
+
     }
 }

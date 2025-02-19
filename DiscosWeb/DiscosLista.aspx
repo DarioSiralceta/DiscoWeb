@@ -11,7 +11,7 @@
         <Columns>
             <asp:BoundField HeaderText="Titulo" DataField="Titulo" />
             <asp:BoundField HeaderText="Cantidad de Canciones" DataField="CantidadCanciones" />
-            <asp:BoundField HeaderText="Estilo" DataField="Genero.Descripcion" />   
+            <asp:BoundField HeaderText="Estilo" DataField="Genero.Descripcion" />  
             <asp:CommandField HeaderText="Acción" ShowSelectButton="true" SelectText="Seleccionar"  />
         </Columns>
     </asp:GridView>

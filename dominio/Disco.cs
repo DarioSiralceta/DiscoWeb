@@ -25,5 +25,7 @@ namespace dominio
         public Estilo Genero { get; set; }
 
         public TipoEdicion Formato { get; set; }
+
+        public bool Activo { get; set; }
     }
 }

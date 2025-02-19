@@ -16,3 +16,9 @@ C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\dominio\obj\Debug\dominio.csproj.
 C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
 C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\dominio\obj\Debug\dominio.dll
 C:\Users\Laura Caligiuri\Desktop\Nueva carpeta\dominio\obj\Debug\dominio.pdb
+C:\Users\LENOVO\Desktop\Proyecto\DiscoWeb\dominio\bin\Debug\dominio.dll
+C:\Users\LENOVO\Desktop\Proyecto\DiscoWeb\dominio\bin\Debug\dominio.pdb
+C:\Users\LENOVO\Desktop\Proyecto\DiscoWeb\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Proyecto\DiscoWeb\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Proyecto\DiscoWeb\dominio\obj\Debug\dominio.dll
+C:\Users\LENOVO\Desktop\Proyecto\DiscoWeb\dominio\obj\Debug\dominio.pdb

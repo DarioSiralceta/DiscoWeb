@@ -53,6 +53,7 @@
     <div class="mb-3">
          <asp:Button Text="Aceptar" ID="btnAceptar" CssClass="btn btn-primary" OnClick="btnAceptar_Click" runat="server" />
          <a href="DiscosLista.aspx">Cancelar</a>
+        <asp:Button Text="Desactivar" ID="btnDesactivar" OnClick="btnDesactivar_click" CssClass="btn btn-warning" runat="server" />
     </div>
     <div class="row">
         <asp:UpdatePanel ID="UpdatePanel2" runat="server">

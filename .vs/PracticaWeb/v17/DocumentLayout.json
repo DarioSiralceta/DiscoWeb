@@ -1,13 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Laura Caligiuri\\Desktop\\Nueva carpeta\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|C:\\Users\\Laura Caligiuri\\Desktop\\Nueva carpeta\\discosweb\\formulariodisco.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|c:\\users\\lenovo\\desktop\\proyecto\\discoweb\\discosweb\\discoslista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|solutionrelative:discosweb\\discoslista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA95519-CBDE-41AF-AE15-E036FF9789A4}|data\\data.csproj|c:\\users\\lenovo\\desktop\\proyecto\\discoweb\\data\\discodato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA95519-CBDE-41AF-AE15-E036FF9789A4}|data\\data.csproj|solutionrelative:data\\discodato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021CAEDF-CD87-40E7-8A12-A49442257AAF}|dominio\\dominio.csproj|c:\\users\\lenovo\\desktop\\proyecto\\discoweb\\dominio\\disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021CAEDF-CD87-40E7-8A12-A49442257AAF}|dominio\\dominio.csproj|solutionrelative:dominio\\disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|c:\\users\\lenovo\\desktop\\proyecto\\discoweb\\discosweb\\formulariodisco.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|solutionrelative:discosweb\\formulariodisco.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|c:\\users\\laura caligiuri\\desktop\\nueva carpeta\\discosweb\\formulariodisco.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{EBA95519-CBDE-41AF-AE15-E036FF9789A4}|data\\data.csproj|c:\\users\\lenovo\\desktop\\proyecto\\discoweb\\data\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA95519-CBDE-41AF-AE15-E036FF9789A4}|data\\data.csproj|solutionrelative:data\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\discosweb\\formulariodisco.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|solutionrelative:discosweb\\formulariodisco.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -18,28 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Disco.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\dominio\\Disco.cs",
+              "RelativeDocumentMoniker": "dominio\\Disco.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\dominio\\Disco.cs",
+              "RelativeToolTip": "dominio\\Disco.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:47:33.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\data\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "data\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\data\\AccesoDatos.cs",
+              "RelativeToolTip": "data\\AccesoDatos.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:35:28.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiscoDato.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\data\\DiscoDato.cs",
+              "RelativeDocumentMoniker": "data\\DiscoDato.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\data\\DiscoDato.cs",
+              "RelativeToolTip": "data\\DiscoDato.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAWwCgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:00:51.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DiscosLista.aspx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\DiscosLista.aspx",
+              "RelativeDocumentMoniker": "DiscosWeb\\DiscosLista.aspx",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\DiscosLista.aspx",
+              "RelativeToolTip": "DiscosWeb\\DiscosLista.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-18T22:06:55.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FormularioDisco.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Laura Caligiuri\\Desktop\\Nueva carpeta\\DiscosWeb\\FormularioDisco.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\FormularioDisco.aspx.cs",
               "RelativeDocumentMoniker": "DiscosWeb\\FormularioDisco.aspx.cs",
-              "ToolTip": "C:\\Users\\Laura Caligiuri\\Desktop\\Nueva carpeta\\DiscosWeb\\FormularioDisco.aspx.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\FormularioDisco.aspx.cs",
               "RelativeToolTip": "DiscosWeb\\FormularioDisco.aspx.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAQwIcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAgwJcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T12:08:10.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "FormularioDisco.aspx",
-              "DocumentMoniker": "C:\\Users\\Laura Caligiuri\\Desktop\\Nueva carpeta\\DiscosWeb\\FormularioDisco.aspx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\FormularioDisco.aspx",
               "RelativeDocumentMoniker": "DiscosWeb\\FormularioDisco.aspx",
-              "ToolTip": "C:\\Users\\Laura Caligiuri\\Desktop\\Nueva carpeta\\DiscosWeb\\FormularioDisco.aspx",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\FormularioDisco.aspx",
               "RelativeToolTip": "DiscosWeb\\FormularioDisco.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
