@@ -288,62 +288,63 @@ namespace data
 
                 string consulta = "SELECT Titulo, FechaLanzamiento, CantidadCanciones, UrlImagenTapa, E.Descripcion AS Genero, T.Descripcion AS Formato, D.IdEstilo, D.IdTipoEdicion, D.id FROM DISCOS D INNER JOIN ESTILOS E ON E.id = D.idEstilo INNER JOIN TIPOSEDICION T ON T.id = D.IdTipoEdicion WHERE ";
 
-                if (campo == "FechaLanzamiento" || campo == "CantidadCanciones")
+                if (campo == "Estilo" || campo == "Titulo")
                 {
 
+      
+                    if (campo == "Estilo")
+                    {
+                        switch (criterio)
+                        {
+                            case "Comienza con":
+                                consulta += "E.Descripcion LIKE @filtro + '%'";
+                                break;
+                            case "Termina con":
+                                consulta += "E.Descripcion LIKE '%' + @filtro";
+                                break;
+                            default:
+                                consulta += "E.Descripcion LIKE '%' + @filtro + '%'";
+                                break;
+                        }
+                    }
+                    else if (campo == "Titulo")
+                    {
+                        switch (criterio)
+                        {
+                            case "Comienza con":
+                                consulta += "Titulo LIKE @filtro + '%'";
+                                break;
+                            case "Termina con":
+                                consulta += "Titulo LIKE '%' + @filtro";
+                                break;
+                            default:
+                                consulta += "Titulo LIKE '%' + @filtro + '%'";
+                                break;
+
+                        }
+                    }
+                    datos.setearParametro("@filtro", filtro);
+                }
+                else
+                {
                     if (!int.TryParse(filtro, out int numericFiltro))
                     {
                         MessageBox.Show("El filtro debe ser un número.");
                         return lista;
                     }
-
-                    if (campo == "FechaLanzamiento")
-                    {
-                        switch (criterio)
-                        {
-                            case "Año Mayor a":
-                                consulta += "YEAR(FechaLanzamiento) > @filtro";
-                                break;
-                            case "Año Menor a":
-                                consulta += "YEAR(FechaLanzamiento) < @filtro";
-                                break;
-                            default:
-                                consulta += "YEAR(FechaLanzamiento) = @filtro";
-                                break;
-                        }
-                    }
-                    else if (campo == "CantidadCanciones")
-                    {
-                        switch (criterio)
-                        {
-                            case "Mayor a":
-                                consulta += "CantidadCanciones > @filtro";
-                                break;
-                            case "Menor a":
-                                consulta += "CantidadCanciones < @filtro";
-                                break;
-                            default:
-                                consulta += "CantidadCanciones = @filtro";
-                                break;
-                        }
-                    }
-                    datos.setearParametro("@filtro", numericFiltro);
-                }
-                else
-                {
                     switch (criterio)
                     {
-                        case "Comienza con":
-                            consulta += "Titulo LIKE @filtro + '%'";
+                        case "Mayor a":
+                            consulta += "CantidadCanciones > @filtro";
                             break;
-                        case "Termina con":
-                            consulta += "Titulo LIKE '%' + @filtro";
+                        case "Menor a":
+                            consulta += "CantidadCanciones < @filtro";
                             break;
                         default:
-                            consulta += "Titulo LIKE '%' + @filtro + '%'";
+                            consulta += "CantidadCanciones = @filtro";
                             break;
                     }
-                    datos.setearParametro("@filtro", filtro);
+                    datos.setearParametro("@filtro", numericFiltro);
                 }
 
                 datos.setearConsulta(consulta);
