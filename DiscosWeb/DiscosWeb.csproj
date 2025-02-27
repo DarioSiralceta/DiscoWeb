@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="EnvioEmail.aspx" />
     <Content Include="Global.asax" />
     <Content Include="MenuLogin1.aspx" />
     <Content Include="Pagina1Login.aspx" />
@@ -85,6 +86,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EnvioEmail.aspx.cs">
+      <DependentUpon>EnvioEmail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EnvioEmail.aspx.designer.cs">
+      <DependentUpon>EnvioEmail.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

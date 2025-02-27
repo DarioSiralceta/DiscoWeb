@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|c:\\users\\lenovo\\desktop\\proyecto\\discoweb\\discosweb\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|solutionrelative:discosweb\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\discosweb\\envioemail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|solutionrelative:discosweb\\envioemail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|c:\\users\\lenovo\\desktop\\proyecto\\discoweb\\discosweb\\pagina1login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|solutionrelative:discosweb\\pagina1login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\discosweb\\envioemail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|solutionrelative:discosweb\\envioemail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|c:\\users\\lenovo\\desktop\\proyecto\\discoweb\\discosweb\\pagina2loginadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|solutionrelative:discosweb\\pagina2loginadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBA95519-CBDE-41AF-AE15-E036FF9789A4}|data\\data.csproj|c:\\users\\lenovo\\desktop\\proyecto\\discoweb\\data\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA95519-CBDE-41AF-AE15-E036FF9789A4}|data\\data.csproj|solutionrelative:data\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|c:\\users\\lenovo\\desktop\\proyecto\\discoweb\\discosweb\\pagina2loginadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|solutionrelative:discosweb\\pagina2loginadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|c:\\users\\lenovo\\desktop\\proyecto\\discoweb\\discosweb\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|solutionrelative:discosweb\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|c:\\users\\lenovo\\desktop\\proyecto\\discoweb\\discosweb\\menulogin1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|solutionrelative:discosweb\\menulogin1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\discosweb\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|solutionrelative:discosweb\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|c:\\users\\lenovo\\desktop\\proyecto\\discoweb\\discosweb\\menulogin1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|solutionrelative:discosweb\\menulogin1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|c:\\users\\lenovo\\desktop\\proyecto\\discoweb\\discosweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{32415A12-3EC4-4B7E-91B1-7129FF733C8A}|DiscosWeb\\DiscosWeb.csproj|solutionrelative:discosweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MenuLogin1.aspx",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\MenuLogin1.aspx",
-              "RelativeDocumentMoniker": "DiscosWeb\\MenuLogin1.aspx",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\MenuLogin1.aspx",
-              "RelativeToolTip": "DiscosWeb\\MenuLogin1.aspx",
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\Default.aspx",
+              "RelativeDocumentMoniker": "DiscosWeb\\Default.aspx",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\Default.aspx",
+              "RelativeToolTip": "DiscosWeb\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-24T22:26:44.073Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-02-26T21:54:15.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Pagina2LoginAdmin.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\Pagina2LoginAdmin.aspx.cs",
-              "RelativeDocumentMoniker": "DiscosWeb\\Pagina2LoginAdmin.aspx.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\Pagina2LoginAdmin.aspx.cs",
-              "RelativeToolTip": "DiscosWeb\\Pagina2LoginAdmin.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\data\\EmailService.cs",
+              "RelativeDocumentMoniker": "data\\EmailService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\data\\EmailService.cs",
+              "RelativeToolTip": "data\\EmailService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T01:26:11.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pagina2LoginAdmin.aspx",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\Pagina2LoginAdmin.aspx",
-              "RelativeDocumentMoniker": "DiscosWeb\\Pagina2LoginAdmin.aspx",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\Pagina2LoginAdmin.aspx",
-              "RelativeToolTip": "DiscosWeb\\Pagina2LoginAdmin.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-25T01:20:58.52Z",
+              "WhenOpened": "2025-02-26T21:48:01.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pagina1Login.aspx",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\Pagina1Login.aspx",
-              "RelativeDocumentMoniker": "DiscosWeb\\Pagina1Login.aspx",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\Pagina1Login.aspx",
-              "RelativeToolTip": "DiscosWeb\\Pagina1Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-25T01:18:44.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MenuLogin1.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\MenuLogin1.aspx.cs",
-              "RelativeDocumentMoniker": "DiscosWeb\\MenuLogin1.aspx.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\MenuLogin1.aspx.cs",
-              "RelativeToolTip": "DiscosWeb\\MenuLogin1.aspx.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Title": "EnvioEmail.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\EnvioEmail.aspx.cs",
+              "RelativeDocumentMoniker": "DiscosWeb\\EnvioEmail.aspx.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\EnvioEmail.aspx.cs",
+              "RelativeToolTip": "DiscosWeb\\EnvioEmail.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T22:38:35.512Z",
+              "WhenOpened": "2025-02-26T21:24:32.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\Login.aspx",
-              "RelativeDocumentMoniker": "DiscosWeb\\Login.aspx",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\Login.aspx",
-              "RelativeToolTip": "DiscosWeb\\Login.aspx",
+              "Title": "EnvioEmail.aspx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\EnvioEmail.aspx",
+              "RelativeDocumentMoniker": "DiscosWeb\\EnvioEmail.aspx",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\EnvioEmail.aspx",
+              "RelativeToolTip": "DiscosWeb\\EnvioEmail.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-24T22:28:11.977Z",
+              "WhenOpened": "2025-02-26T21:23:58.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\Login.aspx.cs",
-              "RelativeDocumentMoniker": "DiscosWeb\\Login.aspx.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\Login.aspx.cs",
-              "RelativeToolTip": "DiscosWeb\\Login.aspx.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswB4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T22:29:05.086Z",
+              "DocumentIndex": 3,
+              "Title": "Master.Master",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\Master.Master",
+              "RelativeDocumentMoniker": "DiscosWeb\\Master.Master",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Proyecto\\DiscoWeb\\DiscosWeb\\Master.Master",
+              "RelativeToolTip": "DiscosWeb\\Master.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-26T21:18:50.661Z",
               "EditorCaption": ""
             }
           ]

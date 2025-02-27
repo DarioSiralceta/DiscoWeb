@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccesoDatos.cs" />
+    <Compile Include="EmailService.cs" />
     <Compile Include="UsuarioData.cs" />
     <Compile Include="DiscoDato.cs" />
     <Compile Include="EstiloDato.cs" />
